@@ -1,19 +1,149 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png" group-title=Aberto",REDETV!
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV!.png" group-title=ABERTO",REDETV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="Aberto",SBT HD 
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTO",SBT HD 
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="Aberto",TV CULTURA 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="ABERTO",TV CULTURA 
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1571193231.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",SPORT TV 2 FHD 
 http://85.244.70.140:7000/play/a02t
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SPORTV TV 3 
 http://85.244.70.140:7000/play/a02w
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Aberto",BAND TV 
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Aberto",BAND 
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Aberto",GLOBO SD
-https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?" group-title="Aberto",teste2
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHryW3l.png?" group-title="ABERTO",TV A Critica
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN BRASIL
+http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="ABERTO",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="ABERTO", TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", TV WEB GB ESPORTE
+http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSMWmhi.png" group-title="ESPORTES INTERNACIONAIS", DUBAI TV EUROPE
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="NHK" tvg-logo="https://i.imgur.com/ykBVpXn.png?1" group-title="NOTÍCIAS",NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySm0J4N.png" group-title="NOTÍCIAS",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTÍCIAS", RECORD NEWS HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RUSSIATODAY.png" group-title="INTERNACIONAIS",RUSSIA TODAY 
+https://rt-uk.secure.footprint.net/1106.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="RELIGIOSO",CANÇÃO NOVA
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8
+
+#EXTINF:-1 tvg-id="TV APARECIDA" tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="REDE SÉCULO 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSO", REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="ABERTO", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="ABERTO", CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="ABERTO", CANAL DO BOI
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="SPORTS", All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS", FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="CÃ¢meras", Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kNQUDr" group-title="Canais Web TV", REDE PETRÓPOLIS DE TELEVISÃO
+http://stmv3.euroti.com.br:1935/neviton5281/neviton5281/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
+http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
+http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E02
+http://hel.lhmtv.gq/play/?contentId=36772b970e9fff53&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E03
+http://hel.lhmtv.gq/play/?contentId=c75827920494544a&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E04
+http://hel.lhmtv.gq/play/?contentId=0f6e275ebb1c9457&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E05
+http://hel.lhmtv.gq/play/?contentId=26a59c00124d4e58&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E06
+http://hel.lhmtv.gq/play/?contentId=e1ec5a1d618b19ae&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E07
+http://hel.lhmtv.gq/play/?contentId=58398f49d239187f&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E08
+http://hel.lhmtv.gq/play/?contentId=410851e81708d347&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E09
+http://hel.lhmtv.gq/play/?contentId=72983eff85987f39&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E10
+http://hel.lhmtv.gq/play/?contentId=c5e12d2401da5002&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E11
+http://hel.lhmtv.gq/play/?contentId=82be3c0255681e91&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E12
+http://hel.lhmtv.gq/play/?contentId=b748c6afe7383033&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E13
+http://hel.lhmtv.gq/play/?contentId=b58c2db01df70776&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E14
+http://hel.lhmtv.gq/play/?contentId=fd22caaf5ed32e3d&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E15
+http://hel.lhmtv.gq/play/?contentId=bb6e7571130a1636&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E16
+http://hel.lhmtv.gq/play/?contentId=96eb114bef66bd53&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E17
+http://hel.lhmtv.gq/play/?contentId=d25711e2d77685af&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E18
+http://hel.lhmtv.gq/play/?contentId=8139925f2e07f72f&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E19
+http://hel.lhmtv.gq/play/?contentId=be921abe0a6b8d61&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E20
+http://topiptv.tk/LHMTvPlay/GreysAnatomyT15E20?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E21
+http://hel.lhmtv.gq/play/?contentId=932ac23c1c864f9c&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E22
+http://hel.lhmtv.gq/play/?contentId=adbba4c3e0793f4d&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E23
+http://hel.lhmtv.gq/play/?contentId=83104ebde147d690&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E24
+http://hel.lhmtv.gq/play/?contentId=00245dc735d935c0&LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E25
+http://hel.lhmtv.gq/play/?contentId=ad1c4287a9a73983&LHMTv
