@@ -222,3 +222,74 @@ http://hel.lhmtv.gq/play/?contentId=00245dc735d935c0&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E25
 http://hel.lhmtv.gq/play/?contentId=ad1c4287a9a73983&LHMTv
 
+#EXTINF:-1,GLOBO RJ HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/812
+#EXTINF:-1,GLOBO RJ HD R2
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1465
+#EXTINF:-1,GLOBO RJ SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1394
+#EXTINF:-1,GLOBO SP FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4720
+#EXTINF:-1,GLOBO SP HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/2015
+#EXTINF:-1,GLOBO SP HD R2
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/2819
+#EXTINF:-1,GLOBO SP SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/811
+#EXTINF:-1,GLOBO BRASILIA HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1470
+#EXTINF:-1,GLOBO BRASILIA SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1395
+#EXTINF:-1,GLOBO MINAS HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/2014
+#EXTINF:-1,GLOBO MINAS SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1396
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5186
+#EXTINF:-1,GLOBO NORDESTE HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/2013
+#EXTINF:-1,GLOBO NORDESTE HD R2
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4428
+#EXTINF:-1,GLOBO NORDESTE SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1397
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5890
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5821
+#EXTINF:-1,GLOBO TV VERDES MARES JUAZEIRO DO NORTE FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5884
+#EXTINF:-1,GLOBO TV VERDES MARES SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4177
+#EXTINF:-1,GLOBO TV GRANDE RIO PETROLINA FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5888
+#EXTINF:-1,GLOBO TV SAO FRANCISCO JUAZEIRO FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5889
+#EXTINF:-1,GLOBO MINAS TV INTEGRACAO FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/6089
+#EXTINF:-1,GLOBO TV BAHIA FHD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5875
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4176
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/3820
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1468
+#EXTINF:-1,GLOBO ANHANGUERA GOIAS HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4721
+#EXTINF:-1,GLOBO ANHANGUERA GOIAS SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/2009
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/5882
+#EXTINF:-1,GLOBO REDE AMAZONICA SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4174
+#EXTINF:-1,GLOBO TV TEM S.J RIO PRETO SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1461
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1462
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/1460
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4185
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+http://sv1.cineiptv.com:8880/cineelite14757/vfv14757/4178
+
