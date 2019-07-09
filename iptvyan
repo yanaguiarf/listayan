@@ -123,8 +123,8 @@ http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
 http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="ABERTO", GLOBO
-http://kastream.biz/za.php?file=gbr&&&http://fotodicas.com/canal/globo-rj/2/&clang=canal
+#EXTINF:-1,PT: Globo HD
+http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/114285
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
