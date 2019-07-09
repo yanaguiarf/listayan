@@ -33,13 +33,13 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TV SENADO" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV SENADO
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Música", HIT Music
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
 
 #EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="CANAL ABERTO",Rede Cultura do Pará
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="Distrito Federal", TV Brasil 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="Aberto", TV Brasil 2
 http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
@@ -48,13 +48,13 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", TV WEB GB ESPORTE
 http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kSMWmhi.png" group-title="ESPORTES INTERNACIONAIS", DUBAI TV EUROPE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kSMWmhi.png" group-title="ESPORTES", DUBAI TV EUROPE
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES", ABU DABI SPORT HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES", ABU DABI SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://i.imgur.com/ykBVpXn.png?1" group-title="NOTÍCIAS",NHK WORLD
@@ -87,7 +87,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="ABERTO", CANAL DO BOI
 https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="SPORTS", All Sports BR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="ESPORTES", All Sports BR
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS", FM O DIA 100.5 - ESTÚDIO AO VIVO
