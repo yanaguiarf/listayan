@@ -129,6 +129,9 @@ http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/114285
 #EXTINF:-1,PT: TV Globo Premium HD
 http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/91946
 
+#EXTINF:-1,BR: TV Globo HD
+http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/89540
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
