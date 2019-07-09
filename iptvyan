@@ -123,8 +123,8 @@ http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
 http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="ABERTO", GLOBO
-https://live.multicanais.com/live/combatesd/video.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="ABERTO", DAZN
+http://world-stream.co:8000/oronzode/k1ggpynwBN/66616
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
