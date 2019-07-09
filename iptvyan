@@ -123,14 +123,20 @@ http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
 http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="ABERTO", DAZN
-http://world-stream.co:8000/oronzode/k1ggpynwBN/66616
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="ABERTO", GLOBO
+http://kastream.biz/za.php?file=gbr&&&http://fotodicas.com/canal/globo-rj/2/&clang=canal
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1,SPORT: BR - ESPN Brasil HD
+http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/206113
+
+#EXTINF:-1,SPORT: BR - SPOR TV 1 HD
+http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/198475
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
