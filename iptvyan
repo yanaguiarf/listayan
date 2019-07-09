@@ -36,10 +36,13 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="TV SENADO" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV SENADO
+#EXTINF:-1 tvg-id="TV SENADO" tvg-logo="http://2.bp.blogspot.com/-BM7Gk72wnxI/VmmlCOZzK-I/AAAAAAAABQU/OF8YKp0yBTA/s1600/tvsenado.png" group-title="ABERTO", TV SENADO
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Música", HIT Music
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="ABERTO",Rede Brasil - TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5c8bdea840754006b9c84ff4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="MUSICA", HIT Music
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
 
 #EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="ABERTO",Rede Cultura do Pará
@@ -51,8 +54,17 @@ http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/mani
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
 http://rtmp.one.by:1200
 
+#EXTINF:0 type="favorites" tvg-group="ABERTO" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" , TV Paraná
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="RELIGIOSO", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", TV WEB GB ESPORTE
 http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TVORIGEM.jpg" group-title="ESPORTES", TV Origem (DF)
+http://stmv2.srvstm.com/jorsilei2749/jorsilei2749/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSMWmhi.png" group-title="ESPORTES", DUBAI TV EUROPE
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
