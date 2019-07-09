@@ -42,10 +42,10 @@ http://janus-tv-ply.senado.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Música", HIT Music
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
 
-#EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="CANAL ABERTO",Rede Cultura do Pará
+#EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="ABERTO",Rede Cultura do Pará
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="Aberto", TV Brasil 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="ABERTO", TV Brasil 2
 http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
