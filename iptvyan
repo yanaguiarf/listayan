@@ -21,6 +21,12 @@ https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPN BRASIL
 http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES", ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES", ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="ABERTO",TV GAZETA HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
@@ -50,12 +56,6 @@ http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kSMWmhi.png" group-title="ESPORTES", DUBAI TV EUROPE
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES", ABU DABI SPORT HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES", ABU DABI SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-id="NHK" tvg-logo="https://i.imgur.com/ykBVpXn.png?1" group-title="NOTÍCIAS",NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
@@ -93,16 +93,16 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="RADIOS", FM O DIA 100.5 - ESTÚDIO AO VIVO
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="CÃ¢meras", Rio de Janeiro - Copacabana
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="CAMERAS", Rio de Janeiro - Copacabana
 http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kNQUDr" group-title="Canais Web TV", REDE PETRÓPOLIS DE TELEVISÃO
+#EXTINF:-1 tvg-logo="https://goo.gl/kNQUDr" group-title="WEB TV", REDE PETRÓPOLIS DE TELEVISÃO
 http://stmv3.euroti.com.br:1935/neviton5281/neviton5281/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Al Kass Sports
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Esportes", Al Kass Sports 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPORTES", Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
