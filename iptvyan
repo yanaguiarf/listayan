@@ -222,21 +222,4 @@ http://hel.lhmtv.gq/play/?contentId=00245dc735d935c0&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E25
 http://hel.lhmtv.gq/play/?contentId=ad1c4287a9a73983&LHMTv
 
-#EXTINF:-1,Globo News HD
-http://viptv2.dyndns.tv:2086/samer/1234/130
-#EXTINF:-1,Globo Nordeste 4K
-http://viptv2.dyndns.tv:2086/samer/1234/129
-#EXTINF:-1,Globo Nordeste HD
-http://viptv2.dyndns.tv:2086/samer/1234/128
-#EXTINF:-1,Globo Rio HD
-http://viptv2.dyndns.tv:2086/samer/1234/127
-#EXTINF:-1,Gloob 4K
-http://viptv2.dyndns.tv:2086/samer/1234/126
-#EXTINF:-1,Gloob HD
-http://viptv2.dyndns.tv:2086/samer/1234/125
-#EXTINF:-1,GNT HD
-http://viptv2.dyndns.tv:2086/samer/1234/124
-#EXTINF:-1,Fox Sports 2 HD
-http://viptv2.dyndns.tv:2086/samer/1234/143
-#EXTINF:-1,Hbo 2 HD
-http://viptv2.dyndns.tv:2086/samer/1234/121
+
