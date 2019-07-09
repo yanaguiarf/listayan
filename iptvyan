@@ -30,6 +30,18 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1 tvg-id="TV SENADO" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="ABERTO", TV SENADO
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="Categorias", HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
+
+#EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="CANAL ABERTO",Rede Cultura do Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="Distrito Federal", TV Brasil 2
+http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
 http://rtmp.one.by:1200
 
@@ -96,6 +108,11 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="MÚSICAS E VARIEDADES", Top TV HD
 http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
@@ -147,10 +164,4 @@ http://hel.lhmtv.gq/play/?contentId=83104ebde147d690&LHMTv
 http://hel.lhmtv.gq/play/?contentId=00245dc735d935c0&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E25
 http://hel.lhmtv.gq/play/?contentId=ad1c4287a9a73983&LHMTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="DFCE", 01T-01
-https://gounlimited.to/0qxlf94ranzz/01.mp4
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="DFCE", 02T-02
-https://gounlimited.to/eh5412it3yfy/02.mp4
 
