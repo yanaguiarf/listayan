@@ -195,6 +195,14 @@ https://azuls.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8y
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC4
 https://azuls.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA4OjEzIFBNJmhhc2hfdmFsdWU9RGthTUQydWhSWkxBczFBYmJzams1QT09JnZhbGlkbWludXRlcz02MCZpZD01
 
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC5
+https://azuls.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC6
+https://azuls.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE3OjU2IFBNJmhhc2hfdmFsdWU9c3NDYnN2Ni9PUlppZENVMHI3Vk0xQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC7
+https://azuls.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
