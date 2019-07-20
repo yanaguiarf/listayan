@@ -153,6 +153,9 @@ https://azuls.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",FOXSPORTS
 https://azuls.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTg6MTUgQU0maGFzaF92YWx1ZT1pc0JJTVdpdngwc3J1bnlMc2czMUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaQrSvpFZFMOvJSpc-pk5y7esYo0tEGaKOaSe86HYA5QS4D-L" group-title="ESPORTES",FOXSPORTS2
+https://azuls.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTk6MDcgQU0maGFzaF92YWx1ZT1lRlB1cjFTMERpVnVmVGJVYTZESTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE
 https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTM6NTggQU0maGFzaF92YWx1ZT1MU1Vtdk10aW5LQWRqN0ZFMjRQbldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
