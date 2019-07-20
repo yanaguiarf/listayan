@@ -171,6 +171,9 @@ https://fan.kastream.biz/edge/ver22b32ac912c8ea3861d896ac7a7fbc4c/chunks.m3u8?ni
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAzMVfKA8skCRi-doLq2yycbuB4tnEzUm0-lfLG_e1avovjOf" group-title="VARIEDADES",MTV
 https://azuls.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mzg6MTUgQU0maGFzaF92YWx1ZT1XS0Fua0lqcjRJNlQ3cXZtcG5VbGpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="VARIEDADES",MULTISHOW
+https://azuls.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NDI6NDYgQU0maGFzaF92YWx1ZT1PN2VHcXFNWHhlNW9JTXJWQnVMUUlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES",TC PIPOCA
 https://azuls.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MTQ6MjYgQU0maGFzaF92YWx1ZT02M1JJalVCY1B0cjAyejBPeDcwUWR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
