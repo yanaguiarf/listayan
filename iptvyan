@@ -165,6 +165,9 @@ https://fan.kastream.biz/edge/ver22b32ac912c8ea3861d896ac7a7fbc4c/chunks.m3u8?ni
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES",TC PIPOCA
 https://azuls.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MTQ6MjYgQU0maGFzaF92YWx1ZT02M1JJalVCY1B0cjAyejBPeDcwUWR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES",TNT
+https://azuls.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MjI6MzcgQU0maGFzaF92YWx1ZT01bnBDaGo5Z2Q0Qi92VU1sVmh5VFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1,PL: E! FHD
 http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/123516
 #EXTINF:-1,PL: ELEVEN SPORTS 1 FHD
