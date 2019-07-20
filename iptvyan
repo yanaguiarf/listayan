@@ -153,6 +153,9 @@ https://azuls.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 #EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTVSD
 https://fan.kastream.biz/edge/spt56/chunks.m3u8?nimblesessionid=945686&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDQ6NDI6NTAgQU0maGFzaF92YWx1ZT1CN2NaQUFkTVFjZ2FiMDh2clNEVjBRPT0mdmFsaWRtaW51dGVzPTEyMA==
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf2RwHerEXbroODGyZ8j-Gh1Eb9UvRRMJ71BlJ3PNBaiGp4MI" group-title="ESPORTES",SPORTV2SD
+https://azuls.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mjg6NDggQU0maGFzaF92YWx1ZT1sWTZUMmNoYW0wV2lWaEQ5eU5HZCt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",FOXSPORTS
 https://fan.kastream.biz/edge/ver2b1/chunks.m3u8?nimblesessionid=946929&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6MzI6MTEgQU0maGFzaF92YWx1ZT01TlFYdStKYjc4UkwvNHdmcHlYN1hRPT0mdmFsaWRtaW51dGVzPTEyMA==
 
