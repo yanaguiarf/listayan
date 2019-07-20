@@ -162,6 +162,8 @@ https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBR
 https://fan.kastream.biz/edge/ver22b32ac912c8ea3861d896ac7a7fbc4c/chunks.m3u8?nimblesessionid=947697&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MDE6MzEgQU0maGFzaF92YWx1ZT1OUjNjL1lRQjJhOHdvd2xKdEsrS3R3PT0mdmFsaWRtaW51dGVzPTEyMA==
 
+#EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logotipo_tupi_dial_alterado.png" group-title="ESPORTES",RÁDIO TUPI
+https://www.youtube.com/watch?v=5AEwIykt5Zo
 
 #EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" group-title="ESPORTES",ESPN2
 https://azuls.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MjM6MzUgQU0maGFzaF92YWx1ZT0rQkxXMkltWlNmR1JxQkp6SVpQVDFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
