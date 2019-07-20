@@ -183,11 +183,18 @@ https://azuls.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES",TNT
 https://azuls.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MjI6MzcgQU0maGFzaF92YWx1ZT01bnBDaGo5Z2Q0Qi92VU1sVmh5VFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES", PFCCLUBES
+https://azuls.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjAzOjUxIFBNJmhhc2hfdmFsdWU9UDVmRkJJTG9vUXZMeVdYZm1ER1EyUT09JnZhbGlkbWludXRlcz02MCZpZD01
+
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC2
 https://azuls.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA0OjI4IFBNJmhhc2hfdmFsdWU9TEJPUFRqTktWd2NSdi9RRlhiR2VpQT09JnZhbGlkbWludXRlcz02MCZpZD01
 
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES", PFCCLUBES
-https://azuls.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjAzOjUxIFBNJmhhc2hfdmFsdWU9UDVmRkJJTG9vUXZMeVdYZm1ER1EyUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC3
+https://azuls.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA2OjU1IFBNJmhhc2hfdmFsdWU9dkcxK1ZFZkcwbFlVNjVMVGxyS1ZRdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC4
+https://azuls.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA4OjEzIFBNJmhhc2hfdmFsdWU9RGthTUQydWhSWkxBczFBYmJzams1QT09JnZhbGlkbWludXRlcz02MCZpZD01
+
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
