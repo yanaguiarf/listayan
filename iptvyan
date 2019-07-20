@@ -6,7 +6,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTO",SBT HD 
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="ABERTO",TV CULTURA 
+#EXTINF:-1 tvg-logo="http://www.portalcultura.com.br/sites/default/files/culturadigital570_333.png" group-title="ABERTO",TV CULTURA 
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1571193231.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",SPORT TV 2 FHD 
