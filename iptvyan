@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV!.png" group-title=ABERTO",REDETV!
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/redetv-logo.png" group-title=ABERTO",REDETV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTO",SBT HD 
