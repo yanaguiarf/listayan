@@ -211,7 +211,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvebrasil.com.br/wp-content/uploads/2018/12/282298-de-ferias-com-o-ex-ganha-temporada-mai-650x488-2.jpg" group-title="DFCE",T01E01
-https://r6---sn-gpv7enek.c.drive.google.com/videoplayback?id=72d37fdde41c80f8&itag=59&source=webdrive&requiressl=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mv=m&mvi=5&pl=24&sc=yes&ttl=transient&ei=msozXZ6ZE5GK-gX9qbnQDw&susc=dr&driveid=1DL3hs36d6EIbIukEe9VdyZsTxzswNeDN&app=texmex&mime=video/mp4&dur=2875.257&lmt=1556407381424262&mt=1563675207&ip=170.254.185.15&ipbits=0&expire=1563689690&cp=QVNLVUdfWFZXQVhOOjczTS0xNG1qbGpI&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,mvi,pl,sc,ttl,ei,susc,driveid,app,mime,dur,lmt,cp&signature=E22E6428E4528EDAE3ED1F9352186AB28E2780F9017A525433E5DF2D6D981B98.569F59E2833751B722388B0F4358E97D4D333E98729C85B9C8289C047D470527&key=us0&cpn=DFm3hoIdFPQ5zXbZ&c=WEB_EMBEDDED_PLAYER&cver=20190718
+https://drive.google.com/file/d/1DL3hs36d6EIbIukEe9VdyZsTxzswNeDN/view?usp=sharing
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
