@@ -129,12 +129,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1,SPORT: BR - ESPN Brasil HD
-http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/206113
-
-#EXTINF:-1,SPORT: BR - SPOR TV 1 HD
-http://190.2.145.164:8080/WHMCSMAG:WHMCS:10215/t4Dy2gK5u3/198475
-
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
 https://azuls.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjI4OjIwIFBNJmhhc2hfdmFsdWU9a3lSZE10bWQ1OW95ay9DM3FQR0xTZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
