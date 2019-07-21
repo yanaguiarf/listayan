@@ -6,6 +6,84 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTO",SBT HD 
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
+https://azuls.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjI4OjIwIFBNJmhhc2hfdmFsdWU9a3lSZE10bWQ1OW95ay9DM3FQR0xTZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOSPHD
+https://azuls.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6MjI6NDQgQU0maGFzaF92YWx1ZT1WcWQ1S2d4TGduZWxWMnhmUWFqcnlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBONORDESTEHD
+https://azuls.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6Mzc6NDkgQU0maGFzaF92YWx1ZT1VM1REdmswTWN5dm80N3VCWXpDTGRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Bandsports-2012-2016.jpg/revision/latest?cb=20190512205206" group-title="ESPORTES",BANDSPORTS
+https://azuls.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU1OjQzIEFNJmhhc2hfdmFsdWU9SUc0a1NIQnVyRmxKQXFwcTB3eUdwdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
+https://azuls.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTE6NTIgQU0maGFzaF92YWx1ZT1xWFl2ZklTRllscG8wZ015MzlRWjlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf2RwHerEXbroODGyZ8j-Gh1Eb9UvRRMJ71BlJ3PNBaiGp4MI" group-title="ESPORTES",SPORTV2
+https://azuls.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mjg6NDggQU0maGFzaF92YWx1ZT1sWTZUMmNoYW0wV2lWaEQ5eU5HZCt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png?v=636632906177670000" group-title="ESPORTES",SPORTV3
+https://azuls.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MzU6MDIgQU0maGFzaF92YWx1ZT1Ydm9YUHlINnJZd1R1L1JVY0pTYVVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",FOXSPORTS
+https://azuls.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTg6MTUgQU0maGFzaF92YWx1ZT1pc0JJTVdpdngwc3J1bnlMc2czMUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaQrSvpFZFMOvJSpc-pk5y7esYo0tEGaKOaSe86HYA5QS4D-L" group-title="ESPORTES",FOXSPORTS2
+https://azuls.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTk6MDcgQU0maGFzaF92YWx1ZT1lRlB1cjFTMERpVnVmVGJVYTZESTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE
+https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTM6NTggQU0maGFzaF92YWx1ZT1MU1Vtdk10aW5LQWRqN0ZFMjRQbldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBR
+https://azuls.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDE6MTQ6MjQgQU0maGFzaF92YWx1ZT1oSCtLMDhGNTBZdGVBbnlCQkNPUnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logotipo_tupi_dial_alterado.png" group-title="ESPORTES",RÁDIO TUPI
+https://r3---sn-3ufv-nq0e.googlevideo.com/videoplayback?expire=1563629348&ei=xMIyXYzxA8n3wATN9o-ABQ&ip=170.254.185.15&id=5AEwIykt5Zo.0&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-3ufv-nq0e%2Csn-gpv7dn7s&ms=lva%2Crdu&mv=u&mvi=2&pl=24&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1563606955&fvip=3&keepalive=yes&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRgIhAN7BH7DltW9e5zkwYKxrwok-ddFdc0nAcGv30yjfiVe_AiEAu8oi0gio2V1_F_7_2Zii3zyMTgEjlMKM-l59wWXu_4I%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIgZRfhVGhtlwhhTWwCjSt87-elVn9t87N4eIercgNm_EUCIQDVQH41alFPuvJnE2XavbItgilfj4DnlehzOiX_5ls0JA%3D%3D&alr=yes&cpn=qxOfJvoXh_Pnc9oa&cver=2.20190718&sq=37525&rn=22&rbuf=3900
+
+#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" group-title="ESPORTES",ESPN2
+https://azuls.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MjM6MzUgQU0maGFzaF92YWx1ZT0rQkxXMkltWlNmR1JxQkp6SVpQVDFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAzMVfKA8skCRi-doLq2yycbuB4tnEzUm0-lfLG_e1avovjOf" group-title="VARIEDADES",MTV
+https://azuls.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mzg6MTUgQU0maGFzaF92YWx1ZT1XS0Fua0lqcjRJNlQ3cXZtcG5VbGpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW
+https://azuls.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NDI6NDYgQU0maGFzaF92YWx1ZT1PN2VHcXFNWHhlNW9JTXJWQnVMUUlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VwMt5C9OqjE/XNnTlCa_-dI/AAAAAAABU80/lQC6YmvGVYcoK-dUwNsJrNAC2ycmZh_mQCLcBGAs/s1600/Canal-BIS-2.png" group-title="VARIEDADES",BIS
+https://azuls.azureedge.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTM6MzQgQU0maGFzaF92YWx1ZT1Yb29kZitDOHB1cUcrb2lEc1hhek9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
+https://azuls.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU5OjM1IEFNJmhhc2hfdmFsdWU9anJmc2ZvOEV2RDVDamNRL1kwWkZHdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES",TC PIPOCA
+https://azuls.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MTQ6MjYgQU0maGFzaF92YWx1ZT02M1JJalVCY1B0cjAyejBPeDcwUWR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES",TNT
+https://azuls.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MjI6MzcgQU0maGFzaF92YWx1ZT01bnBDaGo5Z2Q0Qi92VU1sVmh5VFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES", PFCCLUBES
+https://azuls.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjAzOjUxIFBNJmhhc2hfdmFsdWU9UDVmRkJJTG9vUXZMeVdYZm1ER1EyUT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC2
+https://azuls.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA0OjI4IFBNJmhhc2hfdmFsdWU9TEJPUFRqTktWd2NSdi9RRlhiR2VpQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC3
+https://azuls.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA2OjU1IFBNJmhhc2hfdmFsdWU9dkcxK1ZFZkcwbFlVNjVMVGxyS1ZRdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC4
+https://azuls.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA4OjEzIFBNJmhhc2hfdmFsdWU9RGthTUQydWhSWkxBczFBYmJzams1QT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC5
+https://azuls.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC6
+https://azuls.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE3OjU2IFBNJmhhc2hfdmFsdWU9c3NDYnN2Ni9PUlppZENVMHI3Vk0xQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC7
+https://azuls.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_Ohe_UOsBGPzK4E8uNG-mYLR49Kuj1ScLk7A=s900-mo-c-c0xffffffff-rj-k-no" group-title="ABERTO",TV CULTURA (REDE MINAS)
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1571193231.m3u8
 
@@ -129,83 +207,6 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports (Alternativo)
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
-https://azuls.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjI4OjIwIFBNJmhhc2hfdmFsdWU9a3lSZE10bWQ1OW95ay9DM3FQR0xTZz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOSPHD
-https://azuls.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6MjI6NDQgQU0maGFzaF92YWx1ZT1WcWQ1S2d4TGduZWxWMnhmUWFqcnlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBONORDESTEHD
-https://azuls.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6Mzc6NDkgQU0maGFzaF92YWx1ZT1VM1REdmswTWN5dm80N3VCWXpDTGRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Bandsports-2012-2016.jpg/revision/latest?cb=20190512205206" group-title="ESPORTES",BANDSPORTS
-https://azuls.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU1OjQzIEFNJmhhc2hfdmFsdWU9SUc0a1NIQnVyRmxKQXFwcTB3eUdwdz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
-https://azuls.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTE6NTIgQU0maGFzaF92YWx1ZT1xWFl2ZklTRllscG8wZ015MzlRWjlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf2RwHerEXbroODGyZ8j-Gh1Eb9UvRRMJ71BlJ3PNBaiGp4MI" group-title="ESPORTES",SPORTV2
-https://azuls.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mjg6NDggQU0maGFzaF92YWx1ZT1sWTZUMmNoYW0wV2lWaEQ5eU5HZCt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png?v=636632906177670000" group-title="ESPORTES",SPORTV3
-https://azuls.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MzU6MDIgQU0maGFzaF92YWx1ZT1Ydm9YUHlINnJZd1R1L1JVY0pTYVVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",FOXSPORTS
-https://azuls.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTg6MTUgQU0maGFzaF92YWx1ZT1pc0JJTVdpdngwc3J1bnlMc2czMUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaQrSvpFZFMOvJSpc-pk5y7esYo0tEGaKOaSe86HYA5QS4D-L" group-title="ESPORTES",FOXSPORTS2
-https://azuls.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTk6MDcgQU0maGFzaF92YWx1ZT1lRlB1cjFTMERpVnVmVGJVYTZESTRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="ESPORTES",COMBATE
-https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTM6NTggQU0maGFzaF92YWx1ZT1MU1Vtdk10aW5LQWRqN0ZFMjRQbldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBR
-https://azuls.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDE6MTQ6MjQgQU0maGFzaF92YWx1ZT1oSCtLMDhGNTBZdGVBbnlCQkNPUnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logotipo_tupi_dial_alterado.png" group-title="ESPORTES",RÁDIO TUPI
-https://r3---sn-3ufv-nq0e.googlevideo.com/videoplayback?expire=1563629348&ei=xMIyXYzxA8n3wATN9o-ABQ&ip=170.254.185.15&id=5AEwIykt5Zo.0&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-3ufv-nq0e%2Csn-gpv7dn7s&ms=lva%2Crdu&mv=u&mvi=2&pl=24&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1563606955&fvip=3&keepalive=yes&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRgIhAN7BH7DltW9e5zkwYKxrwok-ddFdc0nAcGv30yjfiVe_AiEAu8oi0gio2V1_F_7_2Zii3zyMTgEjlMKM-l59wWXu_4I%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIgZRfhVGhtlwhhTWwCjSt87-elVn9t87N4eIercgNm_EUCIQDVQH41alFPuvJnE2XavbItgilfj4DnlehzOiX_5ls0JA%3D%3D&alr=yes&cpn=qxOfJvoXh_Pnc9oa&cver=2.20190718&sq=37525&rn=22&rbuf=3900
-
-#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" group-title="ESPORTES",ESPN2
-https://azuls.azureedge.net/hls1/espn2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MjM6MzUgQU0maGFzaF92YWx1ZT0rQkxXMkltWlNmR1JxQkp6SVpQVDFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAzMVfKA8skCRi-doLq2yycbuB4tnEzUm0-lfLG_e1avovjOf" group-title="VARIEDADES",MTV
-https://azuls.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mzg6MTUgQU0maGFzaF92YWx1ZT1XS0Fua0lqcjRJNlQ3cXZtcG5VbGpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW
-https://azuls.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NDI6NDYgQU0maGFzaF92YWx1ZT1PN2VHcXFNWHhlNW9JTXJWQnVMUUlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VwMt5C9OqjE/XNnTlCa_-dI/AAAAAAABU80/lQC6YmvGVYcoK-dUwNsJrNAC2ycmZh_mQCLcBGAs/s1600/Canal-BIS-2.png" group-title="VARIEDADES",BIS
-https://azuls.azureedge.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTM6MzQgQU0maGFzaF92YWx1ZT1Yb29kZitDOHB1cUcrb2lEc1hhek9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="VARIEDADES",GNT
-https://azuls.azureedge.net/hls1/gnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU5OjM1IEFNJmhhc2hfdmFsdWU9anJmc2ZvOEV2RDVDamNRL1kwWkZHdz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES",TC PIPOCA
-https://azuls.azureedge.net/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MTQ6MjYgQU0maGFzaF92YWx1ZT02M1JJalVCY1B0cjAyejBPeDcwUWR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="FILMES",TNT
-https://azuls.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MjI6MzcgQU0maGFzaF92YWx1ZT01bnBDaGo5Z2Q0Qi92VU1sVmh5VFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES", PFCCLUBES
-https://azuls.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjAzOjUxIFBNJmhhc2hfdmFsdWU9UDVmRkJJTG9vUXZMeVdYZm1ER1EyUT09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC2
-https://azuls.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA0OjI4IFBNJmhhc2hfdmFsdWU9TEJPUFRqTktWd2NSdi9RRlhiR2VpQT09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC3
-https://azuls.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA2OjU1IFBNJmhhc2hfdmFsdWU9dkcxK1ZFZkcwbFlVNjVMVGxyS1ZRdz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC4
-https://azuls.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjA4OjEzIFBNJmhhc2hfdmFsdWU9RGthTUQydWhSWkxBczFBYmJzams1QT09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC5
-https://azuls.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC6
-https://azuls.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE3OjU2IFBNJmhhc2hfdmFsdWU9c3NDYnN2Ni9PUlppZENVMHI3Vk0xQT09JnZhbGlkbWludXRlcz02MCZpZD01
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premiere-logo_3d5760eb2e6df9573281c72d20e54e04442c7e0e.jpeg" group-title="ESPORTES",PFC7
-https://azuls.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjE4OjAzIFBNJmhhc2hfdmFsdWU9QzZtbk41L3RIZlUwTjFSQWQ4bVplZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E01
 http://hel.lhmtv.gq/play/?contentId=b16fa0004de3c9a8&LHMTv
