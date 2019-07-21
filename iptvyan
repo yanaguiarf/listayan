@@ -259,7 +259,11 @@ http://topiptv.tk/LHMTvPlay/GreysAnatomyT15E20?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E21
 http://hel.lhmtv.gq/play/?contentId=932ac23c1c864f9c&LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E22
-http://hel.lhmtv.gq/play/?contentId=adbba4c3e0793f4d&LHMTv
+http://azul8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/GRATT15EP22.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E23
+http://azul8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/GRATT15EP23.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E24
+http://azul8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/GRATT15EP24.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15T-E25
 http://azul8080.azureedge.net/RedeCanais/RedeCanais/RCServer06/ondemand/GRATT15EP25.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/ganatomy15.jpg" group-title="Greys Anatomy", 15TLEG-E23
