@@ -213,6 +213,12 @@ http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvebrasil.com.br/wp-content/uploads/2018/12/282298-de-ferias-com-o-ex-ganha-temporada-mai-650x488-2.jpg" group-title="DFCE",T01E01
 https://proxy-17.nyc.dailymotion.com/sec(s_13t_2f7O0wwaaFk-MzVYq0pW58ymSB8o4etqygENKhiGjivRc0D85thkHEQYl3A2nI4ucFa-hDfVx8DA6OE7oNq8aXdYxAQ8UdwDY9t2g)/video/969/949/342949969_mp4_h264_aac_hq_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvebrasil.com.br/wp-content/uploads/2018/12/282298-de-ferias-com-o-ex-ganha-temporada-mai-650x488-2.jpg" group-title="DFCE",T01E02
+https://proxy-14.nyc.dailymotion.com/sec(vlh-KpwGb8HUr2KugsbYOZaBKUpnBR0KwmoSGViqvZmM6xBOnD4qiA57AcINFTySfi-3RlV3-Z_w33LC8MCkDc0H9DW9Rk0R5wxCBP8ldrM)/video/410/789/387987014_mp4_h264_aac_hd_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvebrasil.com.br/wp-content/uploads/2018/12/282298-de-ferias-com-o-ex-ganha-temporada-mai-650x488-2.jpg" group-title="DFCE",T01E03
+https://proxy-14.nyc.dailymotion.com/sec(vlh-KpwGb8HUr2KugsbYOZaBKUpnBR0KwmoSGViqvZmM6xBOnD4qiA57AcINFTySfi-3RlV3-Z_w33LC8MCkDc0H9DW9Rk0R5wxCBP8ldrM)/video/410/789/387987014_mp4_h264_aac_hd_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvebrasil.com.br/wp-content/uploads/2018/12/282298-de-ferias-com-o-ex-ganha-temporada-mai-650x488-2.jpg" group-title="DFCE",T03E01
 https://proxy-13.nyc.dailymotion.com/sec(5D-upqDJxZ7oMdF5vyvZyOlyzgbrWIe0mONk-lSEUkTvtF86PVcPLYGFCb_htPAJ02sF5JbyxvyBfOGTmt06Qg7XU4b_dNb56Q06avAamTE)/video/260/538/413835062_mp4_h264_aac.m3u8
 
