@@ -51,6 +51,9 @@ https://azuls.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMD
 #EXTINF:-1 tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW
 https://azuls.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NDI6NDYgQU0maGFzaF92YWx1ZT1PN2VHcXFNWHhlNW9JTXJWQnVMUUlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyW5spVB_KTAVnIGsmLvGyRmbvN7vdW75Yd0g=s900-mo-c-c0xffffffff-rj-k-no" group-title="VARIEDADES",VIVA
+https://azuls.azureedge.net/hls1/viva.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDE6NTQ6NTcgQU0maGFzaF92YWx1ZT1jR05aU0J2OEFKSS9DalF4eVNiWTN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VwMt5C9OqjE/XNnTlCa_-dI/AAAAAAABU80/lQC6YmvGVYcoK-dUwNsJrNAC2ycmZh_mQCLcBGAs/s1600/Canal-BIS-2.png" group-title="VARIEDADES",BIS
 https://azuls.azureedge.net/hls1/bis.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTM6MzQgQU0maGFzaF92YWx1ZT1Yb29kZitDOHB1cUcrb2lEc1hhek9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
