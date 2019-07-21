@@ -126,7 +126,7 @@ http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTICIAS",CATVE HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",Fox Sports (Alternativo)
 http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
