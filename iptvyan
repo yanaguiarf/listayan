@@ -144,6 +144,9 @@ https://azuls.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBONORDESTEHD
 https://azuls.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6Mzc6NDkgQU0maGFzaF92YWx1ZT1VM1REdmswTWN5dm80N3VCWXpDTGRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Bandsports-2012-2016.jpg/revision/latest?cb=20190512205206" group-title="ESPORTES",BANDSPORTS
+https://azuls.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU1OjQzIEFNJmhhc2hfdmFsdWU9SUc0a1NIQnVyRmxKQXFwcTB3eUdwdz09JnZhbGlkbWludXRlcz02MCZpZD01
+
 #EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
 https://azuls.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTE6NTIgQU0maGFzaF92YWx1ZT1xWFl2ZklTRllscG8wZ015MzlRWjlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
