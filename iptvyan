@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
 https://azuls.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjI4OjIwIFBNJmhhc2hfdmFsdWU9a3lSZE10bWQ1OW95ay9DM3FQR0xTZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOALTER
+https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w1418493872_b850000.m3u8
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOSPHD
 https://azuls.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6MjI6NDQgQU0maGFzaF92YWx1ZT1WcWQ1S2d4TGduZWxWMnhmUWFqcnlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
