@@ -28,7 +28,7 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Bandsports-2012-2016.jpg/revision/latest?cb=20190512205206" group-title="ESPORTES",BANDSPORTS
-https://azuls.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU1OjQzIEFNJmhhc2hfdmFsdWU9SUc0a1NIQnVyRmxKQXFwcTB3eUdwdz09JnZhbGlkbWludXRlcz02MCZpZD01
+https://d10uk7xyz104pv.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDY6MDA6MzEgQU0maGFzaF92YWx1ZT1Sa2NKR0J6ZHJLYzlWQnRCMXBsWENBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
 https://d10uk7xyz104pv.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTI6MjYgQU0maGFzaF92YWx1ZT11aS9pcFpTOFRuSE8yS1NlNXJ4dWdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
@@ -49,7 +49,7 @@ https://azuls.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTM6NTggQU0maGFzaF92YWx1ZT1MU1Vtdk10aW5LQWRqN0ZFMjRQbldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBR
-https://azuls.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2Vydhttps://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTU6MDkgQU0maGFzaF92YWx1ZT1qb1VnMGw3TnVKUC96Q3RlUU9yTkRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=mVyX3RpbWU9Ny8yMS8yMDE5IDE6MTQ6MjQgQU0maGFzaF92YWx1ZT1oSCtLMDhGNTBZdGVBbnlCQkNPUnpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDY6MDQ6MjcgQU0maGFzaF92YWx1ZT1XMVJDdnVjU21VdmRSWUdkYjZiVFd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://www.tupi.fm/wp-content/uploads/2019/05/logotipo_tupi_dial_alterado.png" group-title="ESPORTES",RÁDIO TUPI
 https://r3---sn-3ufv-nq0e.googlevideo.com/videoplayback?expire=1563629348&ei=xMIyXYzxA8n3wATN9o-ABQ&ip=170.254.185.15&id=5AEwIykt5Zo.0&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-3ufv-nq0e%2Csn-gpv7dn7s&ms=lva%2Crdu&mv=u&mvi=2&pl=24&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1563606955&fvip=3&keepalive=yes&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRgIhAN7BH7DltW9e5zkwYKxrwok-ddFdc0nAcGv30yjfiVe_AiEAu8oi0gio2V1_F_7_2Zii3zyMTgEjlMKM-l59wWXu_4I%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIgZRfhVGhtlwhhTWwCjSt87-elVn9t87N4eIercgNm_EUCIQDVQH41alFPuvJnE2XavbItgilfj4DnlehzOiX_5ls0JA%3D%3D&alr=yes&cpn=qxOfJvoXh_Pnc9oa&cver=2.20190718&sq=37525&rn=22&rbuf=3900
