@@ -31,13 +31,13 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 https://azuls.azureedge.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEyOjU1OjQzIEFNJmhhc2hfdmFsdWU9SUc0a1NIQnVyRmxKQXFwcTB3eUdwdz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
-https://azuls.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6NTE6NTIgQU0maGFzaF92YWx1ZT1xWFl2ZklTRllscG8wZ015MzlRWjlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTI6MjYgQU0maGFzaF92YWx1ZT11aS9pcFpTOFRuSE8yS1NlNXJ4dWdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf2RwHerEXbroODGyZ8j-Gh1Eb9UvRRMJ71BlJ3PNBaiGp4MI" group-title="ESPORTES",SPORTV2
-https://azuls.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6Mjg6NDggQU0maGFzaF92YWx1ZT1sWTZUMmNoYW0wV2lWaEQ5eU5HZCt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTM6MTUgQU0maGFzaF92YWx1ZT1rZElaMU41MUdtREgrNHZuTUZjeW13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156906/sport-3.png?v=636632906177670000" group-title="ESPORTES",SPORTV3
-https://azuls.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDY6MzU6MDIgQU0maGFzaF92YWx1ZT1Ydm9YUHlINnJZd1R1L1JVY0pTYVVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d10uk7xyz104pv.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTM6NDMgQU0maGFzaF92YWx1ZT1rcUFJQm1mUFpNLzM0VHNQUWpCWlRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES",FOXSPORTS
 https://azuls.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDc6MTg6MTUgQU0maGFzaF92YWx1ZT1pc0JJTVdpdngwc3J1bnlMc2czMUlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
