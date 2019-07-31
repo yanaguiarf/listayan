@@ -49,7 +49,7 @@ https://azuls.azureedge.net/hls1/foxsports2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 https://azuls.azureedge.net/hls1/combate.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDU6NTM6NTggQU0maGFzaF92YWx1ZT1MU1Vtdk10aW5LQWRqN0ZFMjRQbldnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBR
-https://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDY6MDQ6MjcgQU0maGFzaF92YWx1ZT1XMVJDdnVjU21VdmRSWUdkYjZiVFd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://d1lud49pck8hpm.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDE5IDI6MjY6NDEgQU0maGFzaF92YWx1ZT1RbjNrOFFFMC9SVzRncUxzSytza0xnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES",ESPNBRALTER
 http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
