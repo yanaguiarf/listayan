@@ -31,7 +31,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 https://d10uk7xyz104pv.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDY6MDA6MzEgQU0maGFzaF92YWx1ZT1Sa2NKR0J6ZHJLYzlWQnRCMXBsWENBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/12/93b93c34bd95b28979fa77a2c983.png" group-title="ESPORTES",SPORTV
-https://d1h1b343gf75ml.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDE5IDE6NDc6MDAgQU0maGFzaF92YWx1ZT1laDBGVXRaZVlzMmFBemZleVNyZWF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://cdnfe1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDk6NDc6MTIgUE0maGFzaF92YWx1ZT1HSFhLTHVxZzMzZFFpZHo4RVlRaWlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf2RwHerEXbroODGyZ8j-Gh1Eb9UvRRMJ71BlJ3PNBaiGp4MI" group-title="ESPORTES",SPORTV2
 https://d10uk7xyz104pv.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDE5IDU6NTM6MTUgQU0maGFzaF92YWx1ZT1rZElaMU41MUdtREgrNHZuTUZjeW13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
