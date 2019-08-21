@@ -10,7 +10,7 @@ https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist
 https://assistirtvonline.xyz:25463/live/BrowLow/NewNova/17.m3u8
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOSPHD
-https://raull1.azureedge.net/hls1/bobosp.m3u8
+https://raull1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDE6MzQ6MzYgQU0maGFzaF92YWx1ZT1nOHlwV0hmdEVQTWxEeGNyUFB5RzNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBONORDESTEHD
 https://raull1.azureedge.net/hls1/boborj.m3u8
