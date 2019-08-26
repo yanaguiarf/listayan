@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
-https://fan.kastream.biz/edge/ver0b8e8f2a2d7a88baf541d2ce3fd46286/chunks.m3u8?nimblesessionid=3714585&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDE6MzI6MzggQU0maGFzaF92YWx1ZT01Vm9BOWJpR0pVeC9zWjdIRWgzWEhnPT0mdmFsaWRtaW51dGVzPTEyMA==
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE5IDM6MTY6MzYgUE0maGFzaF92YWx1ZT14b3VNemo4c3JWZWQ4ek9tOW5acVF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBOALTER
 https://5cc00ac6defaf.streamlock.net:1443/naspek/_definst_/naspek.smil/chunklist_w1418493872_b850000.m3u8
