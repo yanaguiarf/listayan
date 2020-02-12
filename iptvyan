@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB20, BBB Acomoanhe a casa
+http://csrv.club:80/live/Bvv26/SBB4t/33430.m3u8
+
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
 https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE5IDM6MTY6MzYgUE0maGFzaF92YWx1ZT14b3VNemo4c3JWZWQ4ek9tOW5acVF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
