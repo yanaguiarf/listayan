@@ -1,7 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="BBB20, BBB Acomoanhe a casa
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1 - Acompanhe a Casa HD
 http://csrv.club:80/live/Bvv26/SBB4t/33430.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 2 - Jardim HD
+http://csrv.club:80/live/Bvv26/SBB4t/33431.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="Canais | BBB",BBB Cam 3 - Cozinha HD
+http://csrv.club:80/live/Bvv26/SBB4t/33432.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/F05" group-title="Canais | BBB",BBB Cam 4 - Quarto Villa HD
+http://csrv.club:80/live/Bvv26/SBB4t/33433.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ofA" group-title="Canais | BBB",BBB Cam 5 - Quarto HD
+http://csrv.club:80/live/Bvv26/SBB4t/33434.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ynW" group-title="Canais | BBB",BBB Cam 6 - Piscina HD
+http://csrv.club:80/live/Bvv26/SBB4t/33435.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/uKY" group-title="Canais | BBB",BBB Cam 7 - Cozinha VIP HD
+http://csrv.club:80/live/Bvv26/SBB4t/33436.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/zPe" group-title="Canais | BBB",BBB Cam 8 - Confessionario HD
+http://csrv.club:80/live/Bvv26/SBB4t/33437.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/QqN" group-title="Canais | BBB",BBB Cam 9 - Quarto Céu HD
+http://csrv.club:80/live/Bvv26/SBB4t/33438.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="Canais | BBB",BBB Mosaico HD
 
 #EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="ABERTO", GLOBORJHD
 https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE5IDM6MTY6MzYgUE0maGFzaF92YWx1ZT14b3VNemo4c3JWZWQ4ek9tOW5acVF3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
