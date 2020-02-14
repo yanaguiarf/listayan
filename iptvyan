@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1 - Acompanhe a Casa HD
-http://csrv.club:80/live/Bvv26/SBB4t/33430.m3u8
+https://live.multicanais.com/mylive/bbbmosaicosd/video.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 2 - Jardim HD
 http://csrv.club:80/live/Bvv26/SBB4t/33431.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="Canais | BBB",BBB Cam 3 - Cozinha HD
