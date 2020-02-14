@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1 - Acompanhe a Casa HD
 https://live.multicanais.com/mylive/bbbmosaicosd/video.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1-2 - Acompanhe a Casa HD
+https://live.multicanais.com/live/bbb01hd/video.m3u8?md5=5FwQErkyeABSIxMdV8qh2Q&expires=1581724380
 #EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 2 - Jardim HD
 http://csrv.club:80/live/Bvv26/SBB4t/33431.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/8yC" group-title="Canais | BBB",BBB Cam 3 - Cozinha HD
